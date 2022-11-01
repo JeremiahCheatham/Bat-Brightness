@@ -8,3 +8,6 @@ Movement: W,A,S,D \
 Torch: Up,Down,Left,Right Arrows \
 Quit: Escape \
 Play: Space
+
+
+![Screenshot](screenshot.png)
